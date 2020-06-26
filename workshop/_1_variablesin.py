@@ -3,6 +3,9 @@
 5+6
 x=5
 y=6
+
+
+
 print(x+y)
 z=5
 print(id(x)) #Here z and x are having same memory address
